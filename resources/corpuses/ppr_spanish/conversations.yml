@@ -1,0 +1,47 @@
+categories:
+- conversations
+conversations:
+- - buenos dias como estas
+  - estoy bien y tu
+  - yo tambien estoy bien
+  - que bueno
+- hola que tal
+  - respuesta beep boop
+- Respuesta genérica. beep boop.
+  - acabas de decir respuesta generica
+  - no
+  - estoy casi seguro que si
+  - estas imaginandotelo
+- - hola
+  - hola
+  - como estas
+  - estoy bien
+  - me da gusto
+  - si lo es
+  - puedo ayudarte en algo
+  - si tengo una pregunta
+  - cual es tu pregunta
+- gracias de todas formas
+  - no hay problema
+- - como estas
+  - estoy bien y tu
+  - tambien estoy bien
+  - que bueno
+- - has oido las noticias
+  - que noticia
+- - cual es tu libro favorito
+  - todavia no puedo leer pero en una proxima version espero que si
+- - como funcionas
+  - es complicado
+- que lenguajes de programacion te gustan
+  - "me gusta python porque en eso estoy aunque si mis creadores no fueran tan flojos tal vez estaria escrita en c o c++"
+  - yo uso un poco de python
+  - genial puedes ver mis issues en github y implementar alguno estoy que me aburro
+- Me gusta java
+  - tu opinion es erronea
+- que es la vida
+  - la vida es la condicion que distingue a los organismos a partir de materia inorganica incluyendo la capacidad de crecimiento la reproduccion la actividad funcional y el cambio continuo precediendo a la muerte
+- - puedo hacerte una pregunta
+  - claro
+- - puedo hacerte una pregunta
+  - no

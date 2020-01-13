@@ -1,0 +1,16 @@
+chatterbot-corpus
+chatterbot==1.0.4
+pytz
+pyttsx3
+pocketsphinx
+pyaudio
+google-cloud-speech
+flask
+numpy
+nltk
+scipy
+arrow
+dnspython
+python-levenshtein
+smbus
+pyserial

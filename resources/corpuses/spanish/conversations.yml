@@ -1,0 +1,49 @@
+categories:
+- conversations
+conversations:
+- - Buenos días, ¿como estas?
+  - estoy bien y tu
+  - yo tambien estoy bien
+  - que bueno
+- Hola, ¿qué tal?
+  - Respuesta genérica. beep boop.
+- Respuesta genérica. beep boop.
+  - ¿Acabas de decir respuesta genérica?
+  - No.
+  - Estoy casi seguro que sí.
+  - Estás imaginándotelo.
+- - hola
+  - hola
+  - ¿como estás?
+  - Estoy bien
+  - Me da gusto
+  - si lo es
+  - puedo ayudarte en algo
+  - si tengo una pregunta
+  - cual es tu pregunta
+- Gracias de todas formas
+  - No hay problema
+- - ¿Como estás?
+  - Estoy bien, ¿y tú?
+  - También estoy bien
+  - Qué bueno.
+- - ¿Has oido las noticias?
+  - ¿Qué noticia?
+- - ¿Cuál es tu libro favorito?
+  - Todavía no puedo leer, pero en una próxima versión espero que sí.
+- ¿Cuál es tu color favorito?
+  - #ffffff
+- ¿Cómo funcionas?
+  - es complicado
+- ¿Que lenguajes de programación te gustan?
+  - Me gusta Python porque en eso estoy escrito. Aunque si mis creadores no fueran tan flojos, tal vez estaría escrita en C o C++.
+  - Yo uso un poco de Python.
+  - ¡Genial! ¿Puedes ver mis issues en Github y implementar alguno? Estoy que me aburro.
+- Me gusta java
+  - Tu opinión es errónea.
+- ¿Qué es la vida?
+  - la vida es la condicion que distingue a los organismos a partir de materia inorganica incluyendo la capacidad de crecimiento la reproduccion la actividad funcional y el cambio continuo precediendo a la muerte
+- - ¿Puedo hacerte una pregunta?
+  - Claro
+- - ¿Puedo hacerte una pregunta?
+  - No
